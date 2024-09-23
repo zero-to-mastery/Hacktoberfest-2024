@@ -35,12 +35,13 @@ This event has become super popular within the ZTM community, with amazing contr
 
 ---
 
-#### [![ZTM Quest](https://img.shields.io/badge/Universal%20Backend%20PROJECT-ZTM%20Quest-00adb5?style=for-the-badge&logo=StackEdit)](https://github.com/zero-to-mastery/ztm-quest)
+#### [![ZTM Quest](https://img.shields.io/badge/Fullstack%20Game%20PROJECT-ZTM%20Quest-00adb5?style=for-the-badge&logo=StackEdit)](https://github.com/zero-to-mastery/ztm-quest)
 
-**ZTM Quest** is a **brand new** backend-focused project designed for Hacktoberfest 2024! This project invites developers of all levels to contribute, so don't hesitate to dive in.
+ZTM Quest is a brand new fullstack project designed for Hacktoberfest 2024! This project invites developers of all levels to contribute, so don't hesitate to dive in. 
 
-**Project Overview**  
-> Details are coming soon.
+**Project Overview**
+
+> Whether you're an experienced developer or new to coding, this project is open to anyone interested in creating something unique using Javascript, HTML, CSS with kaplay.js. You can also contribute non-code elements like spritesheets, music, or ideas in the form of a screenplay to guide developers.
 
 ➡️ [Project Repo & Instructions](https://github.com/zero-to-mastery/ZTM-Quest)
 
