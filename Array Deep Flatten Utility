@@ -1,0 +1,14 @@
+/**
+ * Flattens a nested array of any depth.
+ * @param {Array} arr - The array to flatten.
+ * @returns {Array} - A flat array containing all elements of nested arrays.
+ */
+function deepFlatten(arr) {
+    return arr.reduce((flat, toFlatten) => {
+        return flat.concat(Array.isArray(toFlatten) ? deepFlatten(toFlatten) : toFlatten);
+    }, []);
+}
+
+// Example usage:
+const nestedArray = [1, [2, [3, [4]], 5]];
+console.log(deepFlatten(nestedArray)); // Output: [1, 2, 3, 4, 5]
